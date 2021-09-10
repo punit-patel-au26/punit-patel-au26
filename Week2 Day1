@@ -1,0 +1,28 @@
+(git pull) is used for Cloning the file to your system from the remote repository.
+(git push) is used for pushing the cloned and edited file from your system to the remote repository.
+(git merge) is used for merging the contents from one branch of repository to the another branch of the repository.
+(git log) is used for checking out the commitments we have made in a repository or in a working directory.
+(git status) is used for displaying the state of a working directory and staging area and
+             lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git.
+(git commit) is used for commiting the changes which has been made in the Repository file.
+(git init) is used for creating a new git repository or has been used for git tracking.  
+(git clone) is used for cloning or making an copy the remote repository to your local system or computer.
+(git branch) is used for making a new branch eg: (git branch <Bracnch Name>) 
+             and it also used for the checking out how many branches are there in repository.
+(git chekout) is used for cheching out of branch and also checking out the branch updates the files in the working directory.
+
+
+
+Python 
+
+(*) this function multiplies two Numbers
+Eg: def a=2,b=2 so print (a*b) = "4"
+
+(/) this function divides two Numbers
+Eg: def a=2,b=2 so print (a/b) = "1"
+
+(+) this function adds two Numbers 
+Eg: def a=2,b=2 so print (a+b) = "4"
+
+(-) this function subtracts two Numbers
+Eg: def a=2,b=2 so print (a-b) = "0"
